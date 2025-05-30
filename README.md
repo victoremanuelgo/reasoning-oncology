@@ -21,6 +21,34 @@ The project is part of the paper/review:
 
 ---
 
+## Resultados Comparativos
+
+![Matriz de Confusão Comparativa](images/matriz-confusao-comparativa.png)
+
+## Precisão vs Recall
+
+![Precisão vs Recall](images/precisao-recall.png)
+
+## Métricas Principais de Desempenho
+
+![Métricas Principais](images/metricas-principais.png)
+
+---
+
+## Gemini 2.5 Flash
+
+![Gemini 2.5 Flash](images/gemini2-5-flash.png)
+
+## GPT-4o
+
+![GPT-4o](images/gpt4o.png)
+
+## o4-mini
+
+![o4-mini](images/o4mini.png)
+
+---
+
 ## Important Note
 
 
